@@ -1,1 +1,1 @@
-This is Luke's first git project
+This is Luke's first git project, wowza!
